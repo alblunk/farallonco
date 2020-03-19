@@ -1,4 +1,9 @@
 img {
   width: 100%;
   height: auto;
+  position:absolute;
+}
+
+span {
+  position:relative;
 }
